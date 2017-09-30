@@ -323,13 +323,3 @@ void printSmartArray(SmartArray *smarty)
 		  printf("%s\n", smarty->array[i]);	
 }
 
-double difficultyRating(void)
-{
-	return 4;
-}
-
-double hoursSpent(void)
-{
-	return 35;
-}
-
