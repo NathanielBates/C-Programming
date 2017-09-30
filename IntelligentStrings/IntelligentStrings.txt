@@ -3,3 +3,4 @@ Intelligent Strings:
 Dynamically resizable structures containing arrays of strings of different lengths.
 Included are the functions used to maintain the appropriate amount of space in memory,
 depending on the number of different strings with their respective lengths.
+External "main" file is needed to read in a list of strings. 
