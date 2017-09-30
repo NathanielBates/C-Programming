@@ -1,9 +1,7 @@
 /*
 Nathaniel Bates
-PID: 3957579
 Course: COP3223C, Section: 2
 Casino Assignment
-3/13/16
 */
 
 #include <stdio.h>

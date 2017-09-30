@@ -1,9 +1,7 @@
 /*
 Nathaniel Bates
-PID: 3957579
 COP 3223C
 BlackJack Assignment
-5/2/2016
 */
 
 #include <stdio.h>

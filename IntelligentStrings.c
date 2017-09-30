@@ -1,8 +1,6 @@
 /*
 Nathaniel Bates
-NID:  na089815
 COP 3502C
-Smart Arrays Assignment
 6/10/2016
 */
 
