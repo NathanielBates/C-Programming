@@ -1,1 +1,0 @@
-Console application written in C where you can play black jack.
